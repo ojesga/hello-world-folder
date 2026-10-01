@@ -6,13 +6,13 @@ This software is an implementation of the classic "Hello World" application. It 
 
 The purpose of creating this software is to verify my local programming environment, practice proper Git repository setup using SSH authentication, and follow professional documentation standards using Markdown.
 
-[Software Demo Video](https://www.loom.com/share/ba4a41c461434d58aa5866d05793289f)
+[Software Demo Video]https://www.loom.com/share/9f17f126d8bd4cfc9cfd45add4d8ffd1?t=59
 
 # Development Environment
 
 * **IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub (connected via SSH)
-* **Programming Language:** Python 3.11 (or your selected language)
+* **Programming Language:** Python 3.11
 
 # Useful Websites
 
